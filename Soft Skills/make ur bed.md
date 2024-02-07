@@ -21,3 +21,5 @@ forward.**
   - **don’t back down from the sharks.**
 - **Rise to the Occasion**
   - **be your very best in the darkest moments.**
+- **Give people Hope**
+  - **start singing when you’re up to your neck in mud.**
