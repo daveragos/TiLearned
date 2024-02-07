@@ -15,3 +15,7 @@
 forward.**
 - **Failure Can Make You Stronger**
   - **don’t be afraid of The Circus.**
+- **You Must Dare Greatly**
+  - **slide down the obstacle headfirst.**
+- **Stand Up to the Bullies**
+  - **don’t back down from the sharks.**
