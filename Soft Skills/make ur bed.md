@@ -19,3 +19,5 @@ forward.**
   - **slide down the obstacle headfirst.**
 - **Stand Up to the Bullies**
   - **don’t back down from the sharks.**
+- **Rise to the Occasion**
+  - **be your very best in the darkest moments.**
